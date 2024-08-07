@@ -46,7 +46,7 @@ which have near values in accuracy scores.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@VaddadiLalithanjali] - feel free to contact me!
 
 
 <!-- Optional -->
